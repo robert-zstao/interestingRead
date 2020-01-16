@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="article">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="ArticleDao" />
+              <option name="daoPackage" value="com.zstao.api.mapper" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Article" />
+              <option name="modelPackage" value="com.zstao.api.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="article" />
+              <option name="primaryKey" value="aid" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="article" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="article_collect">
+          <value>
+            <Config>
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="ArticleCollectDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="ArticleCollect" />
+              <option name="modelPackage" value="com.read.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="article_collect" />
+              <option name="primaryKey" value="collect_id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="article_collect" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="article_type">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="ArticleTypeDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="ArticleType" />
+              <option name="modelPackage" value="com.read.mapper" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="article_type" />
+              <option name="primaryKey" value="atype_id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="article_type" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="comment">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="CommentDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Comment" />
+              <option name="modelPackage" value="com.read.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="comment" />
+              <option name="primaryKey" value="cid" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="comment" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="RoleDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Role" />
+              <option name="modelPackage" value="com.read.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="role" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="rid" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="role" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="user">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="UserDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="User" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="user" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="uid" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="user" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="user_like">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="UserLikeDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="UserLike" />
+              <option name="modelPackage" value="com.read.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="user_like" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="like_id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="user_like" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="user_role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="UserRoleDao" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="UserRole" />
+              <option name="modelPackage" value="com.read.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="name" value="user_role" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="urole_id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="user_role" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306/eternity">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
